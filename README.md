@@ -2,7 +2,7 @@
 
 ![FreeBSD](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN2Nmx6bHNkMHI1cjA2NGpleHU2NDR5cHV5NG9qODh6YmRidXgwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.webp)
 
-## 🚀 Projetos Destacados
+## 🚀 Alguns de meus Projetos!
 
 - [ROOTKIT-RING3](https://github.com/Uno13x/ROOTKIT-RING3): Rootkit Ring3 for Linux.
 - [Vsftpd2.3.4](https://github.com/Uno13x/vsftpd2.3.4): Exploit for VSFTPD 2.3.4(CVE-2011-2523).
