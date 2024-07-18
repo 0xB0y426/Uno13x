@@ -15,7 +15,6 @@
 
 ## 📫 Contato
 
-- [Email](Proton: unoxit220@proton.me)
 - [Youtube](https://www.youtube.com/channel/UCjw0CbaL5nkUASdV3oFnLHw)
 
 
