@@ -4,23 +4,18 @@
 
 ## 🚀 Projetos Destacados
 
-- [Projeto 1](https://github.com/seu-usuario/projeto1): Uma breve descrição do projeto.
-- [Projeto 2](https://github.com/seu-usuario/projeto2): Uma breve descrição do projeto.
+- [ROOTKIT-RING3](https://github.com/Uno13x/ROOTKIT-RING3): Rootkit Ring3 for Linux.
+- [Vsftpd2.3.4](https://github.com/Uno13x/vsftpd2.3.4): Exploit for VSFTPD 2.3.4(CVE-2011-2523).
+- [AssaultCube Memory](https://github.com/Uno13x/muniassaultcube): Memory hack.
+- [DNS-RESOLVER](https://github.com/Uno13x/DNS-RESOLVER) DNS-RESOLVER.
 
-## 🛠 Habilidades
+## 🛠 Meu Site
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- [LinuxHome](https://uno13x.github.io/linuxhome/)
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario/)
-- [Twitter](https://twitter.com/seu-usuario)
-- [Email](mailto:seu-email@example.com)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=seu-usuario.seu-usuario)
+- [Email](Proton: unoxit220@proton.me)
 
 
 
