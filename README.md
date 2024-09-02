@@ -7,7 +7,7 @@
 - [ROOTKIT-RING3](https://github.com/Uno13x/ROOTKIT-RING3): Rootkit Ring3 for Linux.
 - [Vsftpd2.3.4](https://github.com/Uno13x/vsftpd2.3.4): Exploit for VSFTPD 2.3.4(CVE-2011-2523).
 - [AssaultCube Memory](https://github.com/Uno13x/muniassaultcube): Memory hack.
-- [DNS-RESOLVER](https://github.com/Uno13x/DNS-RESOLVER) DNS-RESOLVER.
+- [Code Caver Seeker](https://github.com/Uno13x/codecaverseeker) Code Caver Seeker.
 
 ## 🛠 Meu Site
 
@@ -16,6 +16,7 @@
 ## 📫 Contato
 
 - [Youtube](https://www.youtube.com/channel/UCjw0CbaL5nkUASdV3oFnLHw)
+- Telegram: Raidraid1337
 
 
 
