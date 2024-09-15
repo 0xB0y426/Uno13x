@@ -5,7 +5,7 @@
 ## 🚀 Alguns de meus Projetos!
 
 - [ROOTKIT-RING3](https://github.com/Uno13x/ROOTKIT-RING3): Rootkit Ring3 for Linux.
-- [Vsftpd2.3.4](https://github.com/Uno13x/vsftpd2.3.4): Exploit for VSFTPD 2.3.4(CVE-2011-2523).
+- [CVE-2011-2523-PoC](https://github.com/Uno13x/vsftpd2.3.4): Exploit for VSFTPD 2.3.4(CVE-2011-2523).
 - [AssaultCube Memory](https://github.com/Uno13x/muniassaultcube): Memory hack.
 - [Code Caver Seeker](https://github.com/Uno13x/codecaverseeker) Code Caver Seeker.
 
